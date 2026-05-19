@@ -4,6 +4,8 @@ Measure · Monitor · Model · Manage
 
 M4 framework provides design principles for monitoring dashboards, operating on three levels — from individual panel design up to organizational dashboard management.
 
+## Levels of dashboard design
+
 <div class="grid cards" markdown>
 
 -   :material-chart-bar-stacked:{ .lg .middle } __Panel Design__
