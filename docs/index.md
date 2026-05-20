@@ -1,5 +1,8 @@
 # M4 Framework — Observability Design Principles
 
+!!! warning "Site is under construction"
+    Framework documentation is on the way, please visit again in a few days.
+
 Measure · Monitor · Model · Manage
 
 M4 framework provides design principles for monitoring dashboards, operating on three levels — from individual panel design up to organizational dashboard management.
